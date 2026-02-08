@@ -71,9 +71,11 @@ Prepared by: MAHASREE K
 
 Date: 08 February 2026 
 
+
 ABSTRACT
 
    This report explores the foundational concepts of Generative AI and Large Language Models (LLMs). It covers the types of generative models, recent AI tools (2024), the   architecture and training of LLMs, and their applications. A timeline chart illustrates the evolution of AI, while ethical considerations and future trends are discussed    to provide a holistic overview.
+
 
 TABLE OF CONTENTS
   01. Introduction
@@ -91,10 +93,12 @@ TABLE OF CONTENTS
   13. Conclusion
   14. References
 
+
 INTRODUCTION
 
    Artificial Intelligence (AI) has evolved from rule-based systems to powerful generative models capable of creating text, images, audio, and even code. 
    Generative AI and LLMs represent the cutting edge of this transformation.
+
 
 INTRODUCTION TO AI AND MACHINE LEARNING
 
@@ -104,6 +108,7 @@ INTRODUCTION TO AI AND MACHINE LEARNING
    
    Deep Learning: Uses neural networks with multiple layers to model complex relationships.
 
+
 WHAT IS GENERATIVE AI?
 
    Generative AI refers to systems that create new content (text, images, audio, video) rather than just analyzing existing data.
@@ -112,9 +117,11 @@ WHAT IS GENERATIVE AI?
    
    -->Examples: ChatGPT, DALL·E, Stable Diffusion.
 
+
 TYPES OF GENERATIVE AI MODELS
 
    <img width="1080" height="389" alt="image" src="https://github.com/user-attachments/assets/00d92318-a341-4148-ad87-118d1ec02651" />
+
 
 
 INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
@@ -124,6 +131,7 @@ INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
    -->Examples: GPT-4, Claude, Gemini, LLaMA.
    
    -->They power chatbots, summarization tools, and content generators.
+
 
 ARCHITECTURE OF LLMs
 
@@ -139,15 +147,19 @@ ARCHITECTURE OF LLMs
     
    Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
 
+
 TRAINING PROCESS AND DATA REQUIREMENTS
 
    Data: Billions of tokens from books, articles, websites.
    
    Steps:
+   
      1.Pretraining (unsupervised learning on large text corpora)
+     
      2.Fine-tuning (task-specific data)
      3.Reinforcement Learning with Human Feedback (RLHF)
    Compute: Requires GPUs/TPUs, distributed training.
+
 
 Prominent AI Tools in 2024
 
