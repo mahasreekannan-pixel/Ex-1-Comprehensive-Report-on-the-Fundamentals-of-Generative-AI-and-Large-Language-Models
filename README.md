@@ -66,10 +66,13 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 Output:
 
 Title: Fundamentals of Generative AI and Large Language Models
+
 Prepared by: MAHASREE K
+
 Date: 08 February 2026
 
 ABSTRACT
+
    This report explores the foundational concepts of Generative AI and Large Language Models (LLMs). It covers the types of generative models, recent AI tools (2024), the   architecture and training of LLMs, and their applications. A timeline chart illustrates the evolution of AI, while ethical considerations and future trends are discussed    to provide a holistic overview.
 
 TABLE OF CONTENTS
@@ -89,28 +92,34 @@ TABLE OF CONTENTS
   14. References
 
 INTRODUCTION
+
    Artificial Intelligence (AI) has evolved from rule-based systems to powerful generative models capable of creating text, images, audio, and even code. 
    Generative AI and LLMs represent the cutting edge of this transformation.
 
 INTRODUCTION TO AI AND MACHINE LEARNING
+
    AI: Simulation of human intelligence in machines.
    Machine Learning (ML): Subset of AI where systems learn patterns from data.
    Deep Learning: Uses neural networks with multiple layers to model complex relationships.
 
 WHAT IS GENERATIVE AI?
+
    Generative AI refers to systems that create new content (text, images, audio, video) rather than just analyzing existing data.
    -->Key Idea: Learn data distribution and generate samples that resemble real data.
    -->Examples: ChatGPT, DALL·E, Stable Diffusion.
 
 TYPES OF GENERATIVE AI MODELS
+
    <img width="1080" height="389" alt="image" src="https://github.com/user-attachments/assets/00d92318-a341-4148-ad87-118d1ec02651" />
 
 INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
+
    LLMs are neural networks trained on massive text corpora to understand and generate human-like language.
    -->Examples: GPT-4, Claude, Gemini, LLaMA.
    -->They power chatbots, summarization tools, and content generators.
 
 ARCHITECTURE OF LLMs
+
    Transformer Architecture: Core design enabling parallel processing of sequences.
    Key Components:
     -->Attention mechanism (focus on relevant words)
@@ -119,6 +128,7 @@ ARCHITECTURE OF LLMs
    Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
 
 TRAINING PROCESS AND DATA REQUIREMENTS
+
    Data: Billions of tokens from books, articles, websites.
    Steps:
      1.Pretraining (unsupervised learning on large text corpora)
@@ -127,6 +137,7 @@ TRAINING PROCESS AND DATA REQUIREMENTS
    Compute: Requires GPUs/TPUs, distributed training.
 
 Prominent AI Tools in 2024
+
    ChatGPT & Claude: Conversational AI assistants for productivity and education.
    Gemini & Perplexity: Multimodal and search-integrated AI systems.
    MidJourney & Stable Diffusion XL: Creative tools for artists and designers.
@@ -134,6 +145,7 @@ Prominent AI Tools in 2024
    Canva AI & DeepSeek: Enterprise and design-focused AI solutions.
 
 USE CASES AND APPLICATIONS
+
    -->Chatbots (customer support, personal assistants)
    -->Content generation (blogs, marketing copy, code)
    -->Education (tutoring, summarization)
@@ -141,26 +153,31 @@ USE CASES AND APPLICATIONS
    -->Creative arts (music, design, storytelling)
 
 LIMITATIONS AND ETHICAL CONSIDERATIONS
+
    Bias & Fairness: Models reflect biases in training data.
    Hallucinations: Generate plausible but incorrect information.
    Privacy: Risk of memorizing sensitive data.
    Ethics: Misuse in misinformation, deepfakes, plagiarism.
 
 FUTURE TRENDS
+
    -->Smaller, efficient LLMs (edge deployment).
    -->Multimodal AI (text + image + audio).
    -->AI regulation and governance frameworks.
    -->Integration with robotics and IoT.
 
 TIMELINE CHART: EVOLUTION OF AI
+
    <img width="701" height="338" alt="image" src="https://github.com/user-attachments/assets/a08fba20-965b-42c9-8701-9579840e21d3" />
 
 CONCLUSION
+
    Generative AI and LLMs represent a paradigm shift in computing. 
    They enable machines not only to process but also to create, opening opportunities across industries while raising ethical challenges. 
    Understanding their foundations is crucial for leveraging them responsibly.
 
 REFERENCES
+
    OpenAI Research Papers
    Google AI Blog
    DeepMind Publications
@@ -169,4 +186,5 @@ REFERENCES
 
 
 Result:
+
    The Comprehensive Report is given above.
