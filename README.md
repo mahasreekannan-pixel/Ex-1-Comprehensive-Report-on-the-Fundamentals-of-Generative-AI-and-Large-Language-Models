@@ -111,7 +111,7 @@ II INTRODUCTION TO AI AND MACHINE LEARNING
 
 III WHAT IS GENERATIVE AI?
 
-   >> Generative AI refers to systems that create new content (text, images, audio, video) rather than just analyzing existing data.
+    Generative AI refers to systems that create new content (text, images, audio, video) rather than just analyzing existing data.
    
    -->Key Idea: Learn data distribution and generate samples that resemble real data.
    
@@ -126,7 +126,7 @@ IV TYPES OF GENERATIVE AI MODELS
 
 V INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
 
-   >> LLMs are neural networks trained on massive text corpora to understand and generate human-like language.
+    LLMs are neural networks trained on massive text corpora to understand and generate human-like language.
    
    -->Examples: GPT-4, Claude, Gemini, LLaMA.
    
@@ -135,9 +135,9 @@ V INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
 
 VI ARCHITECTURE OF LLMs
 
-   >> Transformer Architecture: Core design enabling parallel processing of sequences.
+    Transformer Architecture: Core design enabling parallel processing of sequences.
    
-   >> Key Components:
+    Key Components:
    
     -->Attention mechanism (focus on relevant words)
     
@@ -145,32 +145,32 @@ VI ARCHITECTURE OF LLMs
     
     -->Decoder-only (GPT models)
     
-   >> Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
+    Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
 
 
 VII TRAINING PROCESS AND DATA REQUIREMENTS
 
-   >> Data: Billions of tokens from books, articles, websites.
+    Data: Billions of tokens from books, articles, websites.
    
-   >> Steps:   
+    Steps:   
        1.Pretraining (unsupervised learning on large text corpora)
        2.Fine-tuning (task-specific data)
        3.Reinforcement Learning with Human Feedback (RLHF)
      
-   >> Compute: Requires GPUs/TPUs, distributed training.
+    Compute: Requires GPUs/TPUs, distributed training.
 
 
 VIII PROMINENT AI TOOOLS IN 2024
 
-   >> ChatGPT & Claude: Conversational AI assistants for productivity and education.
+    ChatGPT & Claude: Conversational AI assistants for productivity and education.
    
-   >> Gemini & Perplexity: Multimodal and search-integrated AI systems.
+    Gemini & Perplexity: Multimodal and search-integrated AI systems.
    
-   >> MidJourney & Stable Diffusion XL: Creative tools for artists and designers.
+    MidJourney & Stable Diffusion XL: Creative tools for artists and designers.
    
-   >> Runway Gen-2 & Synthesia: Video generation and avatar-based content.
+    Runway Gen-2 & Synthesia: Video generation and avatar-based content.
    
-   >> Canva AI & DeepSeek: Enterprise and design-focused AI solutions.
+    Canva AI & DeepSeek: Enterprise and design-focused AI solutions.
    
 
 IX USE CASES AND APPLICATIONS
@@ -188,13 +188,13 @@ IX USE CASES AND APPLICATIONS
 
 X LIMITATIONS AND ETHICAL CONSIDERATIONS
 
-   >> Bias & Fairness: Models reflect biases in training data.
+    Bias & Fairness: Models reflect biases in training data.
    
-   >> Hallucinations: Generate plausible but incorrect information.
+    Hallucinations: Generate plausible but incorrect information.
    
-   >> Privacy: Risk of memorizing sensitive data.
+    Privacy: Risk of memorizing sensitive data.
    
-   >> Ethics: Misuse in misinformation, deepfakes, plagiarism.
+    Ethics: Misuse in misinformation, deepfakes, plagiarism.
    
 
 XI FUTURE TRENDS
@@ -223,15 +223,15 @@ XIII CONCLUSION
 
 XIV REFERENCES
 
-   >> OpenAI Research Papers
+    OpenAI Research Papers
    
-   >> Google AI Blog
+    Google AI Blog
    
-   >> DeepMind Publications
+    DeepMind Publications
    
-   >> Stanford AI Course Notes
+    Stanford AI Course Notes
    
-   >> MIT Technology Review
+    MIT Technology Review
 
 
 Result:
