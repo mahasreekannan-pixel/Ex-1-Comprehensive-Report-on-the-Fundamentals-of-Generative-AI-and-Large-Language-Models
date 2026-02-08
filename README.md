@@ -94,84 +94,86 @@ TABLE OF CONTENTS
   14. References
 
 
-INTRODUCTION
+I INTRODUCTION
 
-   Artificial Intelligence (AI) has evolved from rule-based systems to powerful generative models capable of creating text, images, audio, and even code. 
+  >> Artificial Intelligence (AI) has evolved from rule-based systems to powerful generative models capable of creating text, images, audio, and even code. 
    Generative AI and LLMs represent the cutting edge of this transformation.
 
 
-INTRODUCTION TO AI AND MACHINE LEARNING
+II INTRODUCTION TO AI AND MACHINE LEARNING
 
-   AI: Simulation of human intelligence in machines.
+   -->AI: Simulation of human intelligence in machines.
    
-   Machine Learning (ML): Subset of AI where systems learn patterns from data.
+   -->Machine Learning (ML): Subset of AI where systems learn patterns from data.
    
-   Deep Learning: Uses neural networks with multiple layers to model complex relationships.
+   -->Deep Learning: Uses neural networks with multiple layers to model complex relationships.
 
 
-WHAT IS GENERATIVE AI?
+III WHAT IS GENERATIVE AI?
 
-   Generative AI refers to systems that create new content (text, images, audio, video) rather than just analyzing existing data.
+   >> Generative AI refers to systems that create new content (text, images, audio, video) rather than just analyzing existing data.
    
    -->Key Idea: Learn data distribution and generate samples that resemble real data.
    
    -->Examples: ChatGPT, DALL·E, Stable Diffusion.
 
 
-TYPES OF GENERATIVE AI MODELS
+IV TYPES OF GENERATIVE AI MODELS
 
    <img width="1080" height="389" alt="image" src="https://github.com/user-attachments/assets/00d92318-a341-4148-ad87-118d1ec02651" />
 
 
 
-INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
+V INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
 
-   LLMs are neural networks trained on massive text corpora to understand and generate human-like language.
+   >> LLMs are neural networks trained on massive text corpora to understand and generate human-like language.
    
    -->Examples: GPT-4, Claude, Gemini, LLaMA.
    
    -->They power chatbots, summarization tools, and content generators.
 
 
-ARCHITECTURE OF LLMs
+VI ARCHITECTURE OF LLMs
 
-   Transformer Architecture: Core design enabling parallel processing of sequences.
+   >> Transformer Architecture: Core design enabling parallel processing of sequences.
    
-   Key Components:
+   >> Key Components:
    
     -->Attention mechanism (focus on relevant words)
+    
     -->Encoder-decoder (translation, summarization)
+    
     -->Decoder-only (GPT models)
     
-   Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
+   >> Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
 
 
-TRAINING PROCESS AND DATA REQUIREMENTS
+VII TRAINING PROCESS AND DATA REQUIREMENTS
 
-   Data: Billions of tokens from books, articles, websites.
+   >> Data: Billions of tokens from books, articles, websites.
    
-   Steps:   
-     1.Pretraining (unsupervised learning on large text corpora)
-     2.Fine-tuning (task-specific data)
-     3.Reinforcement Learning with Human Feedback (RLHF)
+   >> Steps:   
+       1.Pretraining (unsupervised learning on large text corpora)
+       2.Fine-tuning (task-specific data)
+       3.Reinforcement Learning with Human Feedback (RLHF)
      
-   Compute: Requires GPUs/TPUs, distributed training.
+   >> Compute: Requires GPUs/TPUs, distributed training.
 
 
-Prominent AI Tools in 2024
+VIII PROMINENT AI TOOOLS IN 2024
 
-   ChatGPT & Claude: Conversational AI assistants for productivity and education.
+   >> ChatGPT & Claude: Conversational AI assistants for productivity and education.
    
-   Gemini & Perplexity: Multimodal and search-integrated AI systems.
+   >> Gemini & Perplexity: Multimodal and search-integrated AI systems.
    
-   MidJourney & Stable Diffusion XL: Creative tools for artists and designers.
+   >> MidJourney & Stable Diffusion XL: Creative tools for artists and designers.
    
-   Runway Gen-2 & Synthesia: Video generation and avatar-based content.
+   >> Runway Gen-2 & Synthesia: Video generation and avatar-based content.
    
-   Canva AI & DeepSeek: Enterprise and design-focused AI solutions.
+   >> Canva AI & DeepSeek: Enterprise and design-focused AI solutions.
    
 
-USE CASES AND APPLICATIONS
+IX USE CASES AND APPLICATIONS
 
    -->Chatbots (customer support, personal assistants)
    
@@ -184,18 +186,18 @@ USE CASES AND APPLICATIONS
    -->Creative arts (music, design, storytelling)
 
 
-LIMITATIONS AND ETHICAL CONSIDERATIONS
+X LIMITATIONS AND ETHICAL CONSIDERATIONS
 
-   Bias & Fairness: Models reflect biases in training data.
+   >> Bias & Fairness: Models reflect biases in training data.
    
-   Hallucinations: Generate plausible but incorrect information.
+   >> Hallucinations: Generate plausible but incorrect information.
    
-   Privacy: Risk of memorizing sensitive data.
+   >> Privacy: Risk of memorizing sensitive data.
    
-   Ethics: Misuse in misinformation, deepfakes, plagiarism.
+   >> Ethics: Misuse in misinformation, deepfakes, plagiarism.
    
 
-FUTURE TRENDS
+XI FUTURE TRENDS
 
    -->Smaller, efficient LLMs (edge deployment).
 
@@ -206,30 +208,30 @@ FUTURE TRENDS
    -->Integration with robotics and IoT.
    
 
-TIMELINE CHART: EVOLUTION OF AI
+XII TIMELINE CHART: EVOLUTION OF AI
 
 
    <img width="701" height="338" alt="image" src="https://github.com/user-attachments/assets/a08fba20-965b-42c9-8701-9579840e21d3" />
 
 
 
-CONCLUSION
+XIII CONCLUSION
 
    Generative AI and LLMs represent a paradigm shift in computing. 
    They enable machines not only to process but also to create, opening opportunities across industries while raising ethical challenges. 
    Understanding their foundations is crucial for leveraging them responsibly.
 
-REFERENCES
+XIV REFERENCES
 
-   OpenAI Research Papers
+   >> OpenAI Research Papers
    
-   Google AI Blog
+   >> Google AI Blog
    
-   DeepMind Publications
+   >> DeepMind Publications
    
-   Stanford AI Course Notes
+   >> Stanford AI Course Notes
    
-   MIT Technology Review
+   >> MIT Technology Review
 
 
 Result:
