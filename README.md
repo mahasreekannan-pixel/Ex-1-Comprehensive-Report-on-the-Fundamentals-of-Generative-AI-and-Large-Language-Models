@@ -96,7 +96,7 @@ TABLE OF CONTENTS
 
 I INTRODUCTION
 
-  >> Artificial Intelligence (AI) has evolved from rule-based systems to powerful generative models capable of creating text, images, audio, and even code. 
+  > Artificial Intelligence (AI) has evolved from rule-based systems to powerful generative models capable of creating text, images, audio, and even code. 
    Generative AI and LLMs represent the cutting edge of this transformation.
 
 
