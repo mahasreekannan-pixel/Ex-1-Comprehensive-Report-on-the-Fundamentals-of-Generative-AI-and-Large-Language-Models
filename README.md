@@ -65,8 +65,10 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
-Title: Fundamentals of Generative AI and Large Language Models \n
+Title: Fundamentals of Generative AI and Large Language Models 
+
 Prepared by: MAHASREE K 
+
 Date: 08 February 2026 
 
 ABSTRACT
@@ -97,13 +99,17 @@ INTRODUCTION
 INTRODUCTION TO AI AND MACHINE LEARNING
 
    AI: Simulation of human intelligence in machines.
+   
    Machine Learning (ML): Subset of AI where systems learn patterns from data.
+   
    Deep Learning: Uses neural networks with multiple layers to model complex relationships.
 
 WHAT IS GENERATIVE AI?
 
    Generative AI refers to systems that create new content (text, images, audio, video) rather than just analyzing existing data.
+   
    -->Key Idea: Learn data distribution and generate samples that resemble real data.
+   
    -->Examples: ChatGPT, DALL·E, Stable Diffusion.
 
 TYPES OF GENERATIVE AI MODELS
@@ -113,7 +119,9 @@ TYPES OF GENERATIVE AI MODELS
 INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
 
    LLMs are neural networks trained on massive text corpora to understand and generate human-like language.
+   
    -->Examples: GPT-4, Claude, Gemini, LLaMA.
+   
    -->They power chatbots, summarization tools, and content generators.
 
 ARCHITECTURE OF LLMs
