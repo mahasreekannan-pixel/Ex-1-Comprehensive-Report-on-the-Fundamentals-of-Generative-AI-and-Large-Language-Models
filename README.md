@@ -116,6 +116,7 @@ TYPES OF GENERATIVE AI MODELS
 
    <img width="1080" height="389" alt="image" src="https://github.com/user-attachments/assets/00d92318-a341-4148-ad87-118d1ec02651" />
 
+
 INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
 
    LLMs are neural networks trained on massive text corpora to understand and generate human-like language.
@@ -127,15 +128,21 @@ INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)
 ARCHITECTURE OF LLMs
 
    Transformer Architecture: Core design enabling parallel processing of sequences.
+   
    Key Components:
+   
     -->Attention mechanism (focus on relevant words)
+    
     -->Encoder-decoder (translation, summarization)
+    
     -->Decoder-only (GPT models)
+    
    Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
 
 TRAINING PROCESS AND DATA REQUIREMENTS
 
    Data: Billions of tokens from books, articles, websites.
+   
    Steps:
      1.Pretraining (unsupervised learning on large text corpora)
      2.Fine-tuning (task-specific data)
