@@ -65,7 +65,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
-Title: Fundamentals of Generative AI and Large Language Models 
+Title: Fundamentals of Generative AI and Large Language Models \n
 Prepared by: MAHASREE K 
 Date: 08 February 2026 
 
