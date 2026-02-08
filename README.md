@@ -140,9 +140,7 @@ ARCHITECTURE OF LLMs
    Key Components:
    
     -->Attention mechanism (focus on relevant words)
-    
     -->Encoder-decoder (translation, summarization)
-    
     -->Decoder-only (GPT models)
     
    Popular Architectures: GPT (decoder-only), BERT (encoder-only), T5 (encoder-decoder).
@@ -152,48 +150,68 @@ TRAINING PROCESS AND DATA REQUIREMENTS
 
    Data: Billions of tokens from books, articles, websites.
    
-   Steps:
-   
+   Steps:   
      1.Pretraining (unsupervised learning on large text corpora)
-     
      2.Fine-tuning (task-specific data)
      3.Reinforcement Learning with Human Feedback (RLHF)
+     
    Compute: Requires GPUs/TPUs, distributed training.
 
 
 Prominent AI Tools in 2024
 
    ChatGPT & Claude: Conversational AI assistants for productivity and education.
+   
    Gemini & Perplexity: Multimodal and search-integrated AI systems.
+   
    MidJourney & Stable Diffusion XL: Creative tools for artists and designers.
+   
    Runway Gen-2 & Synthesia: Video generation and avatar-based content.
+   
    Canva AI & DeepSeek: Enterprise and design-focused AI solutions.
+   
 
 USE CASES AND APPLICATIONS
 
    -->Chatbots (customer support, personal assistants)
+   
    -->Content generation (blogs, marketing copy, code)
+   
    -->Education (tutoring, summarization)
+   
    -->Healthcare (medical notes, drug discovery)
+   
    -->Creative arts (music, design, storytelling)
+
 
 LIMITATIONS AND ETHICAL CONSIDERATIONS
 
    Bias & Fairness: Models reflect biases in training data.
+   
    Hallucinations: Generate plausible but incorrect information.
+   
    Privacy: Risk of memorizing sensitive data.
+   
    Ethics: Misuse in misinformation, deepfakes, plagiarism.
+   
 
 FUTURE TRENDS
 
    -->Smaller, efficient LLMs (edge deployment).
+
    -->Multimodal AI (text + image + audio).
+   
    -->AI regulation and governance frameworks.
+   
    -->Integration with robotics and IoT.
+   
 
 TIMELINE CHART: EVOLUTION OF AI
 
+
    <img width="701" height="338" alt="image" src="https://github.com/user-attachments/assets/a08fba20-965b-42c9-8701-9579840e21d3" />
+
+
 
 CONCLUSION
 
@@ -204,9 +222,13 @@ CONCLUSION
 REFERENCES
 
    OpenAI Research Papers
+   
    Google AI Blog
+   
    DeepMind Publications
+   
    Stanford AI Course Notes
+   
    MIT Technology Review
 
 
